@@ -1,0 +1,10 @@
+.words{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 20vw;
+    height: 20vh;
+}
